@@ -1,0 +1,9 @@
+body {
+	background: whitesmoke;
+}
+a.disabled {
+    /* Make the disabled links grayish*/
+    color: gray;
+    /* And disable the pointer events */
+    pointer-events: none;
+}
